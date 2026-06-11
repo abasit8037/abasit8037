@@ -66,7 +66,7 @@ With 2+ years of hands-on experience managing production infrastructure, cloud e
   <img src="https://skillicons.dev/icons?i=githubactions,jenkins" /><br><br>
   
   <sup><b>Security & Monitoring</b></sup><br>
-  <img src="https://skillicons.dev/icons?i= zabbix,nginx,linux" /><br><br>
+  <img src="https://skillicons.dev/icons?i=zabbix,nginx,linux" /><br><br>
   
   <sup><b>Languages & Scripting</b></sup><br>
   <img src="https://skillicons.dev/icons?i=py,bash" />
