@@ -16,24 +16,50 @@ Here are some ideas to get you started:
 -->
 
 
-# Cloud Infrastructure & Automation Engineer
+# Linux SysAdmin & DevOps Engineer
 
-## About Me
-I'm a **Linux System Administrator and System Engineer** specializing in production infrastructure, high-availability cloud operations, and security hardening. I focus on building resilient backend environments where stable system engineering meets robust automation.
+### AWS · Ansible · Terraform · Docker | 99.99% Uptime · 30% Faster Incident Response
 
-Currently managing production infrastructure and automation workflows at Al Nafi Cloud. Working across enterprise Linux environments, high-availability AWS deployments, and advanced storage solutions—all documented and managed dynamically.
-
----
-
-## What I Build & Manage
-* **High-Availability Infrastructure** – Managing 5 TB+ data environments utilizing BACULA, DRBD, LVM, and enterprise RAID configurations for zero-downtime operations.
-* **Cloud & Network Architecture** – Designing and securing AWS environments using EC2, S3, VPC, and strict IAM policy management.
-* **Infrastructure as Code (IaC)** – Automating infrastructure deployments, repetitive tasks, and server provisioning using Ansible, Terraform, Bash, and Python scripting.
-* **System Hardening & Security** – Enforcing security-first systems through SSH policy enforcement, firewall management (iptables/UFW), and rigorous vulnerability auditing.
+<p align="left">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</p>
 
 ---
 
-## Tech Stack
+## 🚀 About Me
+I don't just keep servers running — **I make sure they never need to stop.**
+
+With 2+ years of hands-on experience managing production infrastructure, cloud environments, and automation workflows for 100+ users at **Al Nafi Cloud**, I build systems that are reliable, secure, and scalable — so businesses don't have to worry about what's running under the hood.
+
+### 📊 Results I've Delivered:
+* ✦ **99.99% uptime** maintained across 10+ critical production systems.
+* ✦ **10+ hours/week saved** through strategic Bash & Python automation.
+* ✦ **30% faster incident response** achieved through structured RCA workflows.
+* ✦ **30% reduction in vulnerability exposure** via OS hardening & AWS MFA.
+* ✦ **20% better infrastructure visibility** using Zabbix + CloudWatch integrations.
+
+---
+
+## ━━ CORE EXPERTISE ━━
+
+### 🖥 Linux Systems Administration
+Ubuntu, RHEL, CentOS — managing the full server lifecycle from provisioning to decommission. Proven track record of resolving 100+ L1–L2 production incidents across SSH, DNS/BIND, Apache, Nginx, and OS-level failures.
+
+### ☁️ Cloud Operations (AWS)
+EC2, S3, VPC, IAM, EBS, CloudWatch, CloudTrail, Security Groups, and NAT configurations. Experienced in maintaining high-availability AWS environments and building real-time monitoring pipelines.
+
+### ⚙️ Automation & DevOps (IaC)
+Ansible for configuration management and Terraform for Infrastructure as Code. Bash and Python scripting for automated patching, backups, log analysis, and security audits. Documented 15+ automation protocols in team SOPs to eliminate technical debt.
+
+### 🔐 Security Hardening & DR
+Proactive security implementation including SSH policy enforcement, firewall rule management, AWS MFA, and vulnerability audits. Safeguarded 5 TB of critical data using BACULA, DRBD, LVM, and RAID configurations.
+
+### 🐳 Containers & Observability
+Docker for containerized deployments. Apache and Nginx performance tuning. Integrated alerting setups using Zabbix + CloudWatch for full-stack observability.
+
+---
+
+## 🛠 Tech Stack
 
 ### Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -42,13 +68,22 @@ Currently managing production infrastructure and automation workflows at Al Nafi
 ![Terraform](https://img.shields.io/badge/terraform-%23623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
 
-### Storage & Automation
+### Containers & Automation
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
 
-## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=abasit8037&show_icons=true&theme=tokyonight)
-![Your Streak](https://github-readme-streak-stats.herokuapp.com/?user=abasit8037&theme=tokyonight)
+## ━━ ALWAYS LEARNING & GROWING ━━
+I train heavily on real-world scenario-based labs — simulating infrastructure failures, security incidents, and multi-server deployments. Currently expanding my expertise in CI/CD pipelines (Jenkins, GitHub Actions) and deep-dive Terraform architectures.
+
+## ━ WHERE I'M HEADED ━━
+Moving toward **AIOps and Kubernetes orchestration** — bringing intelligent automation and cloud-native thinking to every production environment I manage.
+
+---
+
+## 📊 GitHub Stats
+![Abdul Basit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abasit8037&show_icons=true&theme=tokyonight)
+![Abdul Basit's Streak](https://github-readme-streak-stats.herokuapp.com/?user=abasit8037&theme=tokyonight)
