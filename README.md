@@ -57,19 +57,19 @@ With 2+ years of hands-on experience managing production infrastructure, cloud e
 
 <p align="center">
   <sup><b>Cloud & Infrastructure</b></sup><br>
-  <img src="https://skillicons.dev/icons?i=AWS,Terraform, Ansible" /><br><br>
+  <img src="https://skillicons.dev/icons?i=aws,azure,terraform,ansible" /><br><br>
   
   <sup><b>Containers & Orchestration</b></sup><br>
-  <img src="https://skillicons.dev/icons?i=Docker, Kubernetes" /><br><br>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes" /><br><br>
   
   <sup><b>CI/CD</b></sup><br>
   <img src="https://skillicons.dev/icons?i=githubactions,jenkins" /><br><br>
   
   <sup><b>Security & Monitoring</b></sup><br>
-  <img src="https://skillicons.dev/icons?i=elasticsearch,prometheus,grafana" /><br><br>
+  <img src="https://skillicons.dev/icons?i=zabbix,nginx,linux" /><br><br>
   
   <sup><b>Languages & Scripting</b></sup><br>
-  <img src="https://skillicons.dev/icons?i=py,bash,linux" />
+  <img src="https://skillicons.dev/icons?i=py,bash" />
 </p>
 
 ---
@@ -81,4 +81,3 @@ With 2+ years of hands-on experience managing production infrastructure, cloud e
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abasit8037&theme=tokyonight" alt="Abdul Basit's Streak" />
 </p>
-
