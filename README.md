@@ -24,7 +24,13 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:abasit8037@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=abasit8037&label=Profile+Views&color=0e76a8&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
@@ -49,31 +55,38 @@ With 2+ years of hands-on experience managing production infrastructure, cloud e
 
 ## 🚀 Tech Stack
 
-### Cloud & Infrastructure
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-  <img src="https://img.shields.io/badge/redhat-%23CC0000.svg?style=for-the-badge&logo=red-hat&logoColor=white" alt="RHEL" />
-</p>
-
-### Infrastructure as Code & Containers
-<p align="left">
-  <img src="https://img.shields.io/badge/terraform-%23623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</p>
-
-### Security & Monitoring
-<p align="left">
-  <img src="https://img.shields.io/badge/Zabbix-%23CC292B.svg?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
-
-### Languages & Scripting
-<p align="left">
-  <img src="https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-</p>
+<table width="100%">
+  <tr>
+    <td align="center" width="100%">
+      <h4>Cloud & Infrastructure</h4>
+      <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+      <img src="https://img.shields.io/badge/redhat-%23CC0000.svg?style=for-the-badge&logo=red-hat&logoColor=white" alt="RHEL" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100%">
+      <h4>Containers & Orchestration</h4>
+      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/terraform-%23623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+      <img src="https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100%">
+      <h4>Security & Monitoring</h4>
+      <img src="https://img.shields.io/badge/Zabbix-%23CC292B.svg?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100%">
+      <h4>Languages & Scripting</h4>
+      <img src="https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+    </td>
+  </tr>
+</table>
 
 ---
 
