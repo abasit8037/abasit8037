@@ -55,38 +55,22 @@ With 2+ years of hands-on experience managing production infrastructure, cloud e
 
 ## 🚀 Tech Stack
 
-<table width="100%">
-  <tr>
-    <td align="center" width="100%">
-      <h4>Cloud & Infrastructure</h4>
-      <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-      <img src="https://img.shields.io/badge/redhat-%23CC0000.svg?style=for-the-badge&logo=red-hat&logoColor=white" alt="RHEL" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100%">
-      <h4>Containers & Orchestration</h4>
-      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-      <img src="https://img.shields.io/badge/terraform-%23623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-      <img src="https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100%">
-      <h4>Security & Monitoring</h4>
-      <img src="https://img.shields.io/badge/Zabbix-%23CC292B.svg?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100%">
-      <h4>Languages & Scripting</h4>
-      <img src="https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <sup><b>Cloud & Infrastructure</b></sup><br>
+  <img src="https://skillicons.dev/icons?i=AWS,Terraform, Ansible" /><br><br>
+  
+  <sup><b>Containers & Orchestration</b></sup><br>
+  <img src="https://skillicons.dev/icons?i=Docker, Kubernetes" /><br><br>
+  
+  <sup><b>CI/CD</b></sup><br>
+  <img src="https://skillicons.dev/icons?i=githubactions,jenkins" /><br><br>
+  
+  <sup><b>Security & Monitoring</b></sup><br>
+  <img src="https://skillicons.dev/icons?i=elasticsearch,prometheus,grafana" /><br><br>
+  
+  <sup><b>Languages & Scripting</b></sup><br>
+  <img src="https://skillicons.dev/icons?i=py,bash,linux" />
+</p>
 
 ---
 
@@ -97,3 +81,4 @@ With 2+ years of hands-on experience managing production infrastructure, cloud e
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abasit8037&theme=tokyonight" alt="Abdul Basit's Streak" />
 </p>
+
