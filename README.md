@@ -55,22 +55,29 @@ With 2+ years of hands-on experience managing production infrastructure, cloud e
 
 ## 🚀 Tech Stack
 
-<p align="center">
-  <sup><b>Cloud & Infrastructure</b></sup><br>
-  <img src="https://skillicons.dev/icons?i=aws,terraform,ansible" /><br><br>
+<div align="center">
+
+  <p><b>Cloud & Infrastructure</b></p>
+  <img src="https://skillicons.dev/icons?i=aws,terraform,ansible" />
+  <br><br>
   
-  <sup><b>Containers & Orchestration</b></sup><br>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes" /><br><br>
+  <p><b>Containers & Orchestration</b></p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+  <br><br>
   
-  <sup><b>CI/CD</b></sup><br>
-  <img src="https://skillicons.dev/icons?i=githubactions,jenkins" /><br><br>
+  <p><b>CI/CD</b></p>
+  <img src="https://skillicons.dev/icons?i=githubactions,jenkins" />
+  <br><br>
   
-  <sup><b>Security & Monitoring</b></sup><br>
-  <img src="https://skillicons.dev/icons?i=zabbix,nginx,linux" /><br><br>
+  <p><b>Security & Monitoring</b></p>
+  <img src="https://img.shields.io/badge/Zabbix-%23CC292B.svg?style=for-the-badge&logo=zabbix&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=nginx,linux" />
+  <br><br>
   
-  <sup><b>Languages & Scripting</b></sup><br>
+  <p><b>Languages & Scripting</b></p>
   <img src="https://skillicons.dev/icons?i=py,bash" />
-</p>
+
+</div>
 
 ---
 
